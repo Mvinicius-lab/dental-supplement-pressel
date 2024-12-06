@@ -2,7 +2,6 @@ import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import Hero from "@/components/Hero";
 import Benefits from "@/components/Benefits";
-import Ingredients from "@/components/Ingredients";
 import Testimonials from "@/components/Testimonials";
 import CTA from "@/components/CTA";
 
@@ -11,7 +10,6 @@ const Index = () => {
     <div className="min-h-screen bg-background">
       <Hero />
       <Benefits />
-      <Ingredients />
       <Testimonials />
       <CTA />
     </div>
