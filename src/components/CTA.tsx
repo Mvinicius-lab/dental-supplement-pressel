@@ -3,7 +3,7 @@ import { Shield, AlertCircle } from "lucide-react";
 
 const CTA = () => {
   const handleVSLClick = () => {
-    window.location.href = "https://gumaktiv.com/text.php";
+    window.location.href = "https://hop.clickbank.net/?affiliate=mvinicius1&vendor=gumaktiv1&cbpage=tsl&affop=1";
   };
 
   return (
