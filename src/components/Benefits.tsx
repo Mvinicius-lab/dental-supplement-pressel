@@ -1,9 +1,9 @@
-import { Tooth, Heart, Shield, Sparkles } from "lucide-react";
+import { Sparkles, Heart, Shield } from "lucide-react";
 import { Card } from "@/components/ui/card";
 
 const benefits = [
   {
-    icon: Tooth,
+    icon: Sparkles,
     title: "Stronger Teeth",
     description: "Reinforces enamel and supports natural remineralization",
   },
